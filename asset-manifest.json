@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/haleeIT2000/calculator_react/static/css/main.abf988f2.css",
-    "main.js": "/haleeIT2000/calculator_react/static/js/main.f83562f4.js",
-    "index.html": "/haleeIT2000/calculator_react/index.html",
-    "main.abf988f2.css.map": "/haleeIT2000/calculator_react/static/css/main.abf988f2.css.map",
-    "main.f83562f4.js.map": "/haleeIT2000/calculator_react/static/js/main.f83562f4.js.map"
+    "main.css": "/calculator_react/static/css/main.abf988f2.css",
+    "main.js": "/calculator_react/static/js/main.f83562f4.js",
+    "index.html": "/calculator_react/index.html",
+    "main.abf988f2.css.map": "/calculator_react/static/css/main.abf988f2.css.map",
+    "main.f83562f4.js.map": "/calculator_react/static/js/main.f83562f4.js.map"
   },
   "entrypoints": [
     "static/css/main.abf988f2.css",
